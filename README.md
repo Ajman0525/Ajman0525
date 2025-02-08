@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Ajman
-- 🌱 I’m currently learning PyQt5
+- 🐣 I’m currently learning PyQt5 🐣
 
