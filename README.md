@@ -2,8 +2,7 @@
   <img height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2hmcXgzNHQ3Nm9rOXAzbGZoNDdtNGtrdThwcjU4bGxmbGFheDM5dCZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/2DMN31jEeBLVJQGXz6/giphy.gif" />
 </div>
 
-# 
-<h1 align="center">🐣 About Me: </h1>
+# 🐣 About Me: 
 😸I'm currently developing a Veterinary Clinic Management System
 
 
