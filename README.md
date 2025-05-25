@@ -16,11 +16,14 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=Ajman0525&theme=gruvbox&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ajman0525&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+<!--
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Ajman0525&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
-
+-->
+<!--
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Ajman0525&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
+-->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ajman0525/Ajman0525/output/github-snake-dark.svg" />
