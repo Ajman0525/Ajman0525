@@ -3,7 +3,7 @@
 </div>
 
 # 🐣 Hello World! I'm Ajman, an Aspiring Software Engineer ✨
-😸I'm currently developing a Veterinary Clinic Management System
+
 
 
 ## 🌐 Socials:
