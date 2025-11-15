@@ -15,11 +15,10 @@
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 # 📊 GitHub Stats:
-<div align="center">
-  ![](https://github-readme-stats.vercel.app/api?username=Ajman0525&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false)
-  ![](https://nirzak-streak-stats.vercel.app/?user=Ajman0525&theme=gruvbox&hide_border=false)
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ajman0525&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-</div>
+![](https://github-readme-stats.vercel.app/api?username=Ajman0525&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false)
+![](https://nirzak-streak-stats.vercel.app/?user=Ajman0525&theme=gruvbox&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ajman0525&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 <!--
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Ajman0525&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
